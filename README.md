@@ -20,13 +20,6 @@ Welcome to my GitHub profile! I'm **Jonayet Bogdady**, a passionate Computer Sci
 
 I believe the intersection of **technology and design** creates the most meaningful experiences — and that's the space I'm constantly working to inhabit more fully. In my free time, I explore design, tackle programming challenges, and help my peers with academic problems.
 
-```text
-🎓  B.Sc. in Computer Science & Engineering — Green University of Bangladesh
-📍  Araihazar, Narayanganj, Bangladesh 🇧🇩
-📬  jonayet251.cse.gub@gmail.com
-🌐  bogdady.github.io/profile-site
-```
-
 ---
 
 ## 🚀 Skills & Tools
