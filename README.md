@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Jonayet Bogdady (Bogdady)
 
+## 🏫 Student, Dept. of Computer Science and Engineering, Green University of Bangladesh
 <!--
 **Bogdady/Bogdady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
