@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-bogdady.github.io-4f46e5?style=for-the-badge)](https://bogdady.github.io/profile-site/)
 [![GitHub](https://img.shields.io/badge/GitHub-Bogdady-181717?style=for-the-badge&logo=github)](https://github.com/Bogdady)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonayetbogdady-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonayetbogdady)
+[![LinkedIn](https://img.shields.io/badge/🌐LinkedIn-jonayetbogdady-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonayetbogdady)
 [![Facebook](https://img.shields.io/badge/Facebook-jonayet.bogdady258-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jonayet.bogdady258)
 [![Instagram](https://img.shields.io/badge/Instagram-@jonayet258-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonayet258/)
 [![X (Twitter)](https://img.shields.io/badge/X-@Bogdady73878-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bogdady73878)
@@ -77,7 +77,7 @@ I believe the intersection of **technology and design** creates the most meaning
 
 [![Email](https://img.shields.io/badge/Email-jonayet251.cse.gub%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonayet251.cse.gub@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+8801924877237)
-[![Telegram](https://img.shields.io/badge/Telegram-@jonayetbogdady-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/jonayetbogdady)
+
 
 </div>
 
