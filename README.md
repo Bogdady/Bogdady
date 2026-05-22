@@ -63,11 +63,15 @@ I believe the intersection of **technology and design** creates the most meaning
 
 ## 🎓 Education
 
+<div align="center">
+
 | Year | Qualification | Institution |
 |------|--------------|-------------|
 | Present | **B.Sc. Computer Science & Engineering** | Green University of Bangladesh |
 | 2023 | HSC — Science | Govt. Safar Ali College, Araihazar |
 | 2021 | SSC — Science | Panchgaon Ml High School, Araihazar |
+
+</div>
 
 ---
 
