@@ -63,9 +63,9 @@ I believe the intersection of **technology and design** creates the most meaning
 
 | Year | Qualification | Institution |
 |------|--------------|-------------|
-| Present | **B.Sc. Computer Science & Engineering** | Green University of Bangladesh |
-| 2023 | HSC — Science | Govt. Safar Ali College, Araihazar |
-| 2021 | SSC — Science | Panchgaon Ml High School, Araihazar |
+| 2025 - Present | **B.Sc. Computer Science & Engineering** | Green University of Bangladesh |
+| 2022 - 2023 | HSC — Science | Govt. Safar Ali College, Araihazar |
+| 2020 - 2021 | SSC — Science | Panchgaon Ml High School, Araihazar |
 
 </div>
 
@@ -74,10 +74,10 @@ I believe the intersection of **technology and design** creates the most meaning
 ## 📬 Contact with Me 
 
 <div align="center">
-
+  
+[![Phone](https://img.shields.io/badge/☎️%20Portfolio-bogdady.github.io-4f46e5?style=for-the-badge)](+8801924877237)
 [![Email](https://img.shields.io/badge/Email-jonayet251.cse.gub%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonayet251.cse.gub@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+8801924877237)
-
 
 </div>
 
