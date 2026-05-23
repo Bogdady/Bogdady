@@ -75,7 +75,7 @@ I believe the intersection of **technology and design** creates the most meaning
 
 <div align="center">
   
-[![Phone](https://img.shields.io/badge/☎️%20Portfolio-bogdady.github.io-4f46e5?style=for-the-badge)](+8801924877237)
+[![Phone](https://img.shields.io/badge/☎️%20Phone-%2B880%201924--877237-4f46e5?style=for-the-badge)](tel:+8801924877237)
 [![Email](https://img.shields.io/badge/Email-jonayet251.cse.gub%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonayet251.cse.gub@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+8801924877237)
 
